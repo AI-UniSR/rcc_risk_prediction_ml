@@ -1,6 +1,8 @@
 # RCC Risk Prediction ML
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19093594.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 This repository contains a survival analysis pipeline for machine learning model development and validation using Monte Carlo Cross-Validation (MCCV) with 100 simulations. External validation of the model is also included.
 The goal is to develop a pre-operative (T0) prognostic model for Renal Cell Carcinoma (RCC), with cancer-specific mortality (CSM) as the endpoint.
@@ -8,6 +10,11 @@ The goal is to develop a pre-operative (T0) prognostic model for Renal Cell Carc
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Citation
+
+This repository has been archived on Zenodo and assigned a DOI.
+> DOI: [10.5281/zenodo.19093594](https://doi.org/10.5281/zenodo.19093594)
 
 ## Execution Environment
 
