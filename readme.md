@@ -1,6 +1,4 @@
 # RCC Risk Prediction ML
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 
 This repository contains a survival analysis pipeline for machine learning model development and validation using Monte Carlo Cross-Validation (MCCV) with 100 simulations. External validation of the model is also included.
 The goal is to develop a pre-operative (T0) prognostic model for Renal Cell Carcinoma (RCC), with cancer-specific mortality (CSM) as the endpoint.
